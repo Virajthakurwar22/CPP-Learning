@@ -1,6 +1,6 @@
 #include <iostream>
 /*  a function is a block of code that perorms some operation.
-    A function can optionally define input parameters that enable 
+    A function can optionally define input parameters that enable
     callers to pass arguments into the finction.
     */
     int addnumbers( int first_param, int second_param){      //    function which should write before main function 
